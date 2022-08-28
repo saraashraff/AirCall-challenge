@@ -1,12 +1,12 @@
-#Project Discriptiom 
+# Project Discription
 
-This is a react project which gets data from AirCall API and displays it simply. Below are is the main screenshot of the project. The user can view details of calls from the API such as to, from, via the AirCall number, call duration, direction call type, created at, status (Archived or Unarchived) and the added notes. The user can also change the status of a call to archived/unarchived. 
-The user can also filter calls depending on the call type i.e. missed, voice mail or answered. 
+This is a react project which gets data from AirCall API and displays it simply. The user can view details of calls from the API such as to, from, via the AirCall number, call duration, direction call type, created at, status (Archived or Unarchived) and the added notes. The user can also change the status of a call to archived/unarchived. 
+The user can also filter calls depending on the call type i.e. missed, voice mail or answered. Below is the main screenshot of the project.
 
 ![image](https://user-images.githubusercontent.com/63003643/187082229-74846643-6e37-4bea-8078-6f1a35780d12.png)
 
-Here is a loom video of the app.
-https://loom.com/share/0d3c99b5116449ee8b4745ca1df9dee8
+# Here is a loom video of the app.
+https://www.loom.com/share/f7cf65b1316e44b7adb91727adf8b0be
 
 # Getting Started with Create React App
 
