@@ -1,6 +1,3 @@
-#DEMO
-
-http://soggy-skin.surge.sh/
 
 ![overview](https://user-images.githubusercontent.com/48611221/112229636-1b48fc00-8c12-11eb-995a-29c17ca61000.gif)
 
